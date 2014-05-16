@@ -2,3 +2,8 @@
     font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;    
     font-size: 25px;
 }
+
+#menu {
+    padding-left: 15px;
+    padding-right: 15px;
+}
