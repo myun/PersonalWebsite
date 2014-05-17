@@ -1,3 +1,11 @@
+body {
+    background: url("/static/images/bubblebackground.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
 #brandname {
     font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;    
     font-size: 25px;
