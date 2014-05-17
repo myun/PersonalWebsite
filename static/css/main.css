@@ -6,6 +6,11 @@ body {
     background-size: cover;
 }
 
+h2 {
+    font-family: "Brush Script MT", cursive;
+    font-size: 30px;
+}
+
 .container {
     background: rgba(255, 255, 255, 0.8);
     margin-top: 110px;
@@ -30,8 +35,4 @@ body {
     color: #ffffff;
 }
 
-#edit-btn {
-    font-size: 23px;
-    float:right;
-    margin-left: 10px;
-}
+
