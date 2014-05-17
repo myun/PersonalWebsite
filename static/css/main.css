@@ -14,4 +14,6 @@ body {
 #menu {
     padding-left: 15px;
     padding-right: 15px;
+    background: rgba(0, 0, 0, 0.8);
+    border-color: rgba(0, 0, 0, 0.8);
 }
