@@ -51,11 +51,12 @@ ul li {
 
 .icon {
 width:28px;
-height:30px;
+height:28px;
 display:block;
 text-indent:-9999px;
 background-image:url("/static/images/social-icons.jpg");
 background-repeat:no-repeat;
+border-radius:18px;
 }
 
 .twitter {
@@ -67,10 +68,10 @@ background-repeat:no-repeat;
 }
 
 .github {
-    background-position:-83px 0px;
+    background-position:-82px 0px;
 }
 
 .facebook {
-    background-position: -126px 0px;
+    background-position: -124px 0px;
 }
 
