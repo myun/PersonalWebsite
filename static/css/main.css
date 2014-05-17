@@ -6,6 +6,12 @@ body {
     background-size: cover;
 }
 
+.container {
+    background: rgbs(255, 255, 255, 0.8);
+    margin-top: 110px;
+    margin-bottom: 110px;
+}
+
 #brandname {
     font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;    
     font-size: 25px;
@@ -22,3 +28,4 @@ body {
 .navbar-default .navbar-nav > li > a {
     color: #ffffff;
 }
+
