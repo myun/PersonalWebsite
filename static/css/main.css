@@ -58,9 +58,14 @@ background-repeat:no-repeat;
 }
 
 .linkedin {
-    background-position:42px 0px;
+    background-position:-40px 0px;
 }
 
+.github {
+    background-position:-83px 0px;
+}
 
-
+.facebook {
+    background-position: -126px 0px;
+}
 
