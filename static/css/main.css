@@ -40,5 +40,6 @@ p {
 }
 
 .highlight {
-    background-color: #FFCC66;
+    color: #E68A2E;
+    font-weight: bold;
 }
