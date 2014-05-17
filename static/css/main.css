@@ -1,5 +1,5 @@
 body {
-    background: url("/static/images/bubblebackground.jpg") no-repeat center center fixed;
+    background: url("/static/images/soapbubbles.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -7,9 +7,10 @@ body {
 }
 
 .container {
-    background: rgbs(255, 255, 255, 0.8);
+    background: rgba(255, 255, 255, 0.7);
     margin-top: 110px;
     margin-bottom: 110px;
+    padding: 50px;
 }
 
 #brandname {
