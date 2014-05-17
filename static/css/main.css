@@ -54,7 +54,11 @@ background-repeat:no-repeat;
 }
 
 .twitter {
-background-position:0px 0px;
+    background-position:0px 0px;
+}
+
+.linkedin {
+    background-position: 42px 0px;
 }
 
 
