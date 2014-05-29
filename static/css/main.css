@@ -67,6 +67,14 @@ ul li {
     font-size: 15px;
 }
 
+#nameimage {
+    position: absolute;
+}
+
+#nametext {
+    margin-left: 25px;
+}
+
 .icon {
 width:28px;
 height:28px;
