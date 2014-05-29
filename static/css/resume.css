@@ -1,4 +1,4 @@
 ul li {
     float:none;
-    display:block;
+    display:list-item;
 }
