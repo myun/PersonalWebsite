@@ -7,12 +7,13 @@ body {
 }
 
 h1 {
-    font-family: 
-    font-size: 65px;
+    font-family: "Brush Script MT", cursive;
+    text-align: center;
+    color: #505050;
 }
 
 h2 {
-    font-family: "Brush Script MT", cursive;
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
     font-size: 55px;
 }
 
@@ -28,6 +29,27 @@ p {
 ul li {
     float:left;
     display:block;
+}
+
+/* Flaired edges, by Tomas Theunissen */
+        
+hr.style-seven {
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+}
+
+hr.style-seven:before { /* Not really supposed to work, but does */
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;    
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
 }
 
 .container {
