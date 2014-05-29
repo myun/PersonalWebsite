@@ -39,14 +39,22 @@ ul li {
 }
 
 #menu {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 60px;
+    padding-right:60px;
     background: rgba(0, 0, 0, 0.8);
     border-color: rgba(0, 0, 0, 0.8);
 }
 
 .navbar-default .navbar-nav > li > a {
-    color: #ffffff;
+    color: #1dcaff;
+    padding-left: 40px;
+    font-size: 23px;
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: black;
 }
 
 .highlight {
