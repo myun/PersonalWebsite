@@ -6,6 +6,11 @@ body {
     background-size: cover;
 }
 
+h1 {
+    font-family: 
+    font-size: 65px;
+}
+
 h2 {
     font-family: "Brush Script MT", cursive;
     font-size: 55px;
