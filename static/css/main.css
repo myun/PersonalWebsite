@@ -16,6 +16,7 @@ h1 {
 h2 {
     font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
     font-size: 30px;
+    margin-top: 0px;
 }
 
 h3 {
@@ -37,7 +38,7 @@ ul li {
 hr.style-seven {
     height: 30px;
     border-style: solid;
-    border-color: black;
+    border-color: #505050;
     border-width: 1px 0 0 0;
     border-radius: 20px;
 }
@@ -48,7 +49,7 @@ hr.style-seven:before { /* Not really supposed to work, but does */
     height: 30px;
     margin-top: -31px;    
     border-style: solid;
-    border-color: black;
+    border-color: #505050;
     border-width: 0 0 1px 0;
     border-radius: 20px;
 }
