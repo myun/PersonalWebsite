@@ -68,12 +68,18 @@ hr.style {
     color: #91e7ff;
     padding-left: 40px;
     padding-top: 25px;
-    font-size: 30px;
+    font-size: 32px;
     font-family: "Brush Script MT", cursive;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
+    color: black;
+}
+
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
     color: black;
 }
 
